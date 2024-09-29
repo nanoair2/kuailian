@@ -4,7 +4,7 @@
 官方网站 ②：[nanoair.github.io](https://nanoair.github.io)  
 官方频道：[nanoceo.github.io](https://nanoceo.github.io)
 
-## 快连介绍
+## 快连VPN介绍
 
 快连VPN总部在加拿大多伦多并且有着十几年专业的网络通信经验和技术。快连VPN服务在亚太地区已经稳定运营超过6年多了，是 2023 年翻墙无压力的VPN。YouTube 上的技术博主不良林也十分推荐这款VPN。
 
